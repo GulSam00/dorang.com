@@ -1,5 +1,11 @@
+import { MainContainer } from '../../components';
+
 const MainPage = () => {
-  return <>mAISFN!</>;
+  return (
+    <>
+      <MainContainer />!
+    </>
+  );
 };
 
 export default MainPage;
