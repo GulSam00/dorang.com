@@ -1,8 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { MainPage } from './pages';
 
-const MainPage = () => {
-  return <div>ASFASFAS</div>;
-};
 const Router = () => {
   return (
     <BrowserRouter>
