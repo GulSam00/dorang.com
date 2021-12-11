@@ -1,5 +1,5 @@
 const MainPage = () => {
-  return <>mainPage!</>;
+  return <>mAISFN!</>;
 };
 
 export default MainPage;
