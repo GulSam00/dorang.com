@@ -1,5 +1,5 @@
 import { Container, Header, Message, Grid } from 'semantic-ui-react';
-
+import { Link } from 'react-router-dom';
 const MainContainer = () => {
   return (
     <>
@@ -19,6 +19,8 @@ const MainContainer = () => {
           <Grid.Column width={9}></Grid.Column>
         </Grid.Row>
       </Grid>
+      <Link to="about">about</Link>
+      <Link to="picture">picture</Link>
     </>
   );
 };

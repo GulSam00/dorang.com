@@ -22,5 +22,6 @@ module.exports = {
   rules: {
     'prettier/prettier': 'error',
     'react/react-in-jsx-scope': 'off',
+    'react/prop-types': 'off', // props 타입 지정 꺼주기
   },
 };
