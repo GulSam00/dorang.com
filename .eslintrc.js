@@ -23,5 +23,7 @@ module.exports = {
     'prettier/prettier': 'error',
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': 'off', // props 타입 지정 꺼주기
+    'react/no-unescaped-entities': 'off',
+    'no-unused-vars': 'off',
   },
 };

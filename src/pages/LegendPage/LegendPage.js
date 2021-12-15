@@ -1,8 +1,5 @@
-// import { MainContainer } from '../../components';
+import { LegendContainer } from '../../components';
 
-const LegendContainer = () => {
-  return <>ad</>;
-};
 const LegendPage = () => {
   return (
     <>
