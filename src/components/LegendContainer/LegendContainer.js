@@ -18,7 +18,7 @@ const LegendContainer = () => {
     <Grid celled container divided>
       <Legend image="" person="ㅁㄴㄹㅁㄴ" story="21412412" />
       <Legend
-        image=""
+        image="assets/KakaoTalk_20211211_231639091_03.jpg"
         person="세르비야 구라비야"
         story="북소리를 들으니 절음뱅이가 눈을 뜨고 맹인이 벌떡 일어나는 것이 아니겠습니까. 할렐루야!"
       />

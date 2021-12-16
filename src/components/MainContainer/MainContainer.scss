@@ -1,0 +1,15 @@
+.main-header {
+  display: flex;
+  flex-direction: row;
+
+  img {
+    width: 20%;
+    height: 700px;
+    object-fit: cover;
+  }
+}
+.evidence {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}

@@ -36,14 +36,12 @@ const WebHeader = () => {
           <Link to="./picture">
             <Header as="h2" icon size="medium">
               <Icon name="address building" link />
-              김도랑 박물관
-              <Header.Subheader>기리기리 기억되리</Header.Subheader>
+              김도랑 유니버스
+              <Header.Subheader>어디에나 존재한다</Header.Subheader>
             </Header>
           </Link>
         </Grid.Column>
       </Grid>
-
-      <Divider clearing />
     </Segment>
   );
 };
