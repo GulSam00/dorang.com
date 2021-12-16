@@ -8,7 +8,7 @@ import {
   List,
   Segment,
 } from 'semantic-ui-react';
-
+import './MainContainer.scss';
 const { MediaContextProvider, Media } = createMedia({
   breakpoints: {
     mobile: 0,
